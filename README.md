@@ -34,7 +34,9 @@
 
 3.1 Windows 10 ..........
 
+4. Development System ..........
 
+4.1 Software ..........
 
 
 
@@ -48,17 +50,33 @@ This document specifies a design for the conceptual features and mechanics (game
 
 This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the video game rendition of CountDown.
 
-## 1.2 Type Conventions
+### 1.2 Type Conventions
+
 Things that have been discussed in a meeting are presented in this document with no asterisks.
 
 Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
+
+
 
 ## 2. References
 
 [1] Countdown
 
+
+
 ## 3. Target System
- Count Down will be produced for the folling platforms: Windows all versions running in the command line *and as a seperate application for the web (written in javascript) using either unity or phaser. This document is primarly concered with the command line version though the application may be adapted to a web based graphical application depending on the time scale. 
+
+Count Down will be produced for the following platforms: Windows all versions running in the command line *and as a seperate application for the web (written in javascript) using either unity or phaser. This document is primarly concered with the command line version though the application may be adapted to a web based graphical application depending on the time scale. 
+
+### 3.1 Windows 10
+
+
+
+## 4. Development System
+
+### 4.1 Software
+
+CountDown will use either the cross-platform game engine, Unity   (which is primarily used to develop video games and simulations for computers, consoles and mobile devices.) or the open source HTML5 game framework coined as Phaser, each developed by Unity Technologies  and Photon Storm respectivly.
 
 
 ### High Level Description 
