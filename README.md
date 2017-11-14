@@ -29,6 +29,10 @@
 
 This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the video game rendition of CountDown.
 
+## 1.2 Type Conventions
+Things that have been discussed in a meeting are presented in this document with no asterisks.
+
+Things that have not been offically agreed on but which are suggested by the author are presented with asterisks, like this (*),being marked as omitted until it has been agreed upon that it may be of use or implemented.
 
 ## 2. References
 
