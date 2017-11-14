@@ -76,7 +76,7 @@ Count Down will be produced for the following platforms: Windows all versions ru
 
 ### 4.1 Software
 
-CountDown will use either the cross-platform game engine, Unity   (which is primarily used to develop video games and simulations for computers, consoles and mobile devices.) or the open source HTML5 game framework coined as Phaser, each developed by Unity Technologies  and Photon Storm respectivly.
+CountDown will use either the cross-platform game engine, Unity   (which is primarily used to develop video games and simulations for computers, consoles and mobile devices.) or the open source HTML5 game framework coined as Phaser (designed to create games that will run on desktop and mobile web browsers.), each developed by Unity Technologies  and Photon Storm respectivly.
 
 
 ### High Level Description 
