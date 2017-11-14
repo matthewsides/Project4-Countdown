@@ -3,17 +3,34 @@
 
 # Table Of Contents
 
-1. Introduction.......................................................................................
+1. Introduction..........
 
-1.1 .......................................................................................
+1.1 Scope ..........
+1.2 Type Conventions ..........
 
-1.2 .......................................................................................
+2. References..........
 
-2. References
-
-3. Target System
+3. Target System..........
 
 
+
+
+
+
+
+
+
+
+
+
+## 1. Introduction
+
+### 1.1 Scope
+
+This documentation is intended to be read by programmers, artists and producers involved in the design implementation and testing of the video game rendition of CountDown.
+
+
+## 2. References
 
 
 
