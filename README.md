@@ -63,7 +63,7 @@ Things that have not been offically agreed on but which are suggested by the aut
 [1] Countdown
 
 ## 3. Target System
-
+ Count Down will be produced for the folling platforms: Windows all versions running in the command line *and as a seperate application for the web (written in javascript) using either unity or phaser. This document is primarly concered with the command line version though the application may be adapted to a web based graphical application depending on the time scale. 
 
 
 ### High Level Description 
