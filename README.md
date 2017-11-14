@@ -1,6 +1,5 @@
-#                                                    | Project4-Countdown |
-                                                     |--------------------|
-
+#| Project4-Countdown |
+                                                   
 
 
 
