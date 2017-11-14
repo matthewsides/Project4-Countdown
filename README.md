@@ -1,5 +1,5 @@
 # | Project4-Countdown |
-     Version 0.1
+     Version 1.00
      November 14, 2017
      
 
@@ -7,7 +7,7 @@
 
 | Version     | Author     | Date      | Comments     |
 |-------------|------------|-----------|--------------|
-|             |            |           |              |
+| 1.00        |            |           |              |
 |             |            |           |              | 
 |             |            |           |              |
 |             |            |           |              |
