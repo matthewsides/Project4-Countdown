@@ -105,8 +105,8 @@ Research and implement a video game that mimics the popular show ‘Countdown’
 |--------------------|---------------------------|--------------|-----------------|
 | 1           | Output                           | Black box/Unit testing | Some form of output graphical or text form should show on screen.       |   
 | 2           | Retrieving user input            | Unit testing | User is prompted to give input and the system should recieve that input with no informalitys or anomalies.|    
-| 3           | Initiate and End the Game    | 1      |22 Sep    |    
-| 4           | Be able to move              | 3      |22 Sep    |    
+| 3           | Storage of values in an array    | 1      |22 Sep    |    
+| 4           | Retrieval of values from an array            | 3      |22 Sep    |    
 | 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    
 | Total Points| 9                 |
 
