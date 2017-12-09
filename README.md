@@ -98,6 +98,7 @@ Research and implement a video game that mimics the popular show ‘Countdown’
 | 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    |    |    |    |    |
 | Total Points| 9                 |
 
+## Testing 
 
 ### Test Plan - Before Implementation
 
@@ -130,6 +131,9 @@ Research and implement a video game that mimics the popular show ‘Countdown’
 | 9 |Closing an external text file | Unit testing | The file should close, though all variables storing information taken from said file should retain the information, to be used for other functions or instances in the program. | The program exhibited no problems whilst closing in run mode or compiling the code, whilst taken information was retained unless specified or overwritten. |
 | 10 | Seeing whether two words given by two users when valid can be compared (comparision system applied works) | Black box/Unit testing| The program should  compare two words and through using conditional statements and the basis that the word with the longer length wins or holds more value, output whether user one or user two wins. | The program originally always exhibitted or ended as a draw despite all logic pointing otherwise, thus a logical error was experienced. This was fixed from changing the code or methodlogy "variable + len (Word)" to "variable = variable + len (word)", which fixed the error, essentially leading to the program outputting the right string when the values or conditions matched and proving that the comparision system does work as intended since the len is only the output phase or what should happen after the comparision has happened thus showing it is functional. |
 
+### Test Plan Evalutation
+
+The test plan in regards to its effectiveness, in this instance was crucial in finding errors in particular those pertaining to logical systematic, errors which are usually extremely errouenous, since the code may seem to appear in working order and the program may not produce any errors on the surface, instead opting to not run that section of code thus the test plan was effective in regards to finding the problem as if the application was equal and only tested in regards to a draw it would make it seem that the program is functioning when in reality there were complications with the winning and losing segments of the code.
 
 
 
