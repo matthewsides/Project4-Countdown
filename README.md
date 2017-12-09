@@ -133,9 +133,7 @@ Research and implement a video game that mimics the popular show ‘Countdown’
 
 ### Test Plan Evalutation
 
-The test plan in regards to its effectiveness, in this instance was crucial in finding errors in particular those pertaining to logical systematic, errors which are usually extremely errouenous, since the code may seem to appear in working order and the program may not produce any errors on the surface, instead opting to not run that section of code thus the test plan was effective in regards to finding the problem as if the application was equal and only tested in regards to a draw it would make it seem that the program is functioning when in reality there were complications with the winning and losing segments of the code.
-
-
+The test plan in regards to its effectiveness, in this instance was crucial in finding errors in particular those pertaining to logical systematic, errors which are usually extremely errouenous, since the code may seem to appear in working order and the program may not produce any errors on the surface, instead opting to not run that section of code thus the test plan was effective in regards to finding the problem as if the application was equal and only tested in regards to a draw it would make it seem that the program is functioning when in reality there were complications with the winning and losing segments of the code. Though excluding that problem encountered the only other problem related to the path or file directory unable to be located, which could or would have been found out without using the test plan since the IDE would produce errors and a conditional statement was used so that if the file is open produce an written error. Thereafter the test was effective in regards to find the problems that were encountered and serverly affect the programs performance or stops it from running though it would be hard to state the exact effectiveness since it can only be measured by the errors found and encountered.
 
 
 
