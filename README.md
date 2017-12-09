@@ -42,6 +42,7 @@
 
 5.1 Concept
 
+6.1 
 
 
 ## 1. Introduction
@@ -96,4 +97,17 @@ Research and implement a video game that mimics the popular show ‘Countdown’
 | 4           | Be able to move              | 3      |22 Sep    |    |    |    |    |    |
 | 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    |    |    |    |    |
 | Total Points| 9                 |
+
+
+### Test Plan
+
+| Test reference no. | Description of test       | Type of test |Expected Outcome | 
+|--------------------|---------------------------|--------------|-----------------|
+| 1           | Retrieving user input            | Unit testing | user is prompted to give input and the system should recieve that input with no informalitys|    
+| 2           | See the NPC and Player Model | 1      |22 Sep    |   
+| 3           | Initiate and End the Game    | 1      |22 Sep    |    
+| 4           | Be able to move              | 3      |22 Sep    |    
+| 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    
+| Total Points| 9                 |
+
 
