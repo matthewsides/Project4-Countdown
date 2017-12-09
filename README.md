@@ -105,9 +105,9 @@ Research and implement a video game that mimics the popular show ‘Countdown’
 |--------------------|---------------------------|--------------|-----------------|
 | 1           | Output                           | Black box/Unit testing | Some form of output graphical or text form should show on screen.       |   
 | 2           | Retrieving user input            | Unit testing | User is prompted to give input and the system should recieve that input with no informalitys or anomalies.|    
-| 3           | Storage of values in an array    | 1      |22 Sep    |    
-| 4           | Retrieval of values from an array            | 3      |22 Sep    |    
-| 5           | Amount of Lives (Feedback)   | 2      |22 Sep    |    
+| 3           | Storage of values in an array    | Unit testing     |Pre-determined values should be stored within a defined array orlist with no syntax,logical errors, etc. occurring    |    
+| 4           | Retrieval of all the values held in an array            | Black box/Unit testing  | Pre-set values stored in an array should be printed, proving that the code segment is functional.  |    
+| 5           | Retrieval of values from an array based around user input  | White box   | Pre-set values stored in an array should be outputted and appear on a screen based on user input and whether said value asked for is contained in the array  |    
 | Total Points| 9                 |
 
 
