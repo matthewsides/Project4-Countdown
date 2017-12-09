@@ -119,7 +119,16 @@ Research and implement a video game that mimics the popular show ‘Countdown’
 
 | Test reference no. | Description of test       | Type of test |Expected Outcome | Real Outcome|
 |--------------------|---------------------------|--------------|-----------------|-------------|
-
+| 1 | Testing to see whether the program can achieve output | Black Box/Unit Testing | The program should output pre-determined text into a command line (python), that is visible on a screen. | The program outputted text onto the screen (using basic font that could be altered if necassary) with no errors and is clearly visible.
+| 2 | Testing as to whether the program may take input | Unit testing/White Box | The program should take and store the input into a variable, thereafter using the first test to output said stored text to check that the text stored is incorrelation or the sameas the text inputted and that it was stored correctly. | The program 'count down' outputting string asked for input, thus input was given with no errors occuring on the surface or in the background storing successfully, which was then confirmed with said stored input being regurgitated by the program.
+| 3 | 
+| 4 |
+| 5 |
+| 6 |
+| 7 |
+| 8 |
+| 9 |
+| 10 | 
 
 
 
