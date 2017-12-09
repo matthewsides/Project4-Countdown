@@ -105,9 +105,13 @@ Research and implement a video game that mimics the popular show ‘Countdown’
 |--------------------|---------------------------|--------------|-----------------|
 | 1           | Output                           | Black box/Unit testing | Some form of output graphical or text form should show on screen.       |   
 | 2           | Retrieving user input            | Unit testing | User is prompted to give input and the system should recieve that input with no informalitys or anomalies.|    
-| 3           | Storage of values in an array    | Unit testing     |Pre-determined values should be stored within a defined array orlist with no syntax,logical errors, etc. occurring    |    
+| 3           | Storage of values in an array    | Unit testing     |Pre-determined values should be accepted and stored within a defined array or list with no syntax,logical errors, etc. occurring    |    
 | 4           | Retrieval of all the values held in an array            | Black box/Unit testing  | Pre-set values stored in an array should be printed, proving that the code segment is functional.  |    
 | 5           | Retrieval of values from an array based around user input  | White box   | Pre-set values stored in an array should be outputted and appear on a screen based on user input and whether said value asked for is contained in the array  |    
-| Total Points| 9                 |
+| 6 | Importing an external file              | Black box/Unit testing | Whilst importing the libary the program should exhibit no signs of error and open an external file. |
+| 7 | Reading an external txt file and storing contents in an array outputting| Black box| The program should  read a text file with no errors retrieving all the content within the file, storing it within a variable and showing said content or information on screen.
+| 8 | Checking and retrieving specific parts of a text file to compare with input | Black Box/White Box/ Unit testing | Once input is given the 'opened' file should be read with the program thus checking to see whether the input that was given is found in the text file and if so give feedback pertaining to the status of 'yes' or 'valid whilst if it is not there the program should break a loop and state that the word cannot be found or located.
+| 9 | Closing a external text file | Unit testing | The file should close, though all variables storing information taken from said file should retain the information, to be used for other functions or instances in the program.
+| 10 |
 
 
